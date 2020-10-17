@@ -1,7 +1,7 @@
 /*
 * Kamia Bryan
 * Comp 163
-* Age & Height
+* Name, age, and height
 *
 * This application will prompt users to input their age and height
 * then output the values
@@ -9,7 +9,7 @@
 */
 import java.util.Scanner;
 
-public class AgeHeight {
+public class NameAgeHeight {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your name: ");
