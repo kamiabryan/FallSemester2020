@@ -3,8 +3,8 @@
  * Comp 163
  * Average Grades
  * 
- * This application will prompt the user to input how many grades they would
- * like to average. Then prompt them to input the grades. Finally, output their letter grade.
+ * This application will prompt the user to input how many grades they would 
+ *like to average, calculate their grade,  output their letter grade.
  *  
  */
 import java.util.Scanner;
