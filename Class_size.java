@@ -4,7 +4,7 @@ import java.util.Scanner;
 *
 * Class Size
 * This application will prompt the user to enter the number of 
-* students in their classn and their ages. Then output the student's
+* students in their class and their ages. Then output the student's
 * ages forwards then backwards
 */
 public class Class_size {
